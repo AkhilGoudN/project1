@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+background-image: url('https://t3.ftcdn.net/jpg/01/81/33/44/360_F_181334456_izy7WhJzEvkJzZrQWyBHmOCchKViuAGS.jpg'); 
+   background-repeat: no-repeat;
+    background-size:  cover;
+
+  }
+  
+  .clock {
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+    color:
+    #f3f3f3;
+    /* background-color: red;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px; */
+}
+  
+  .time {
+    display: inline-block;
+
+  }
+
+  .date {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+ 
